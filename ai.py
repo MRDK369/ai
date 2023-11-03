@@ -1,3 +1,5 @@
+#in 1951 christopher strachey invent ai
+
 #Type of ai 
 #reactive ai 
 #limited memory ai
