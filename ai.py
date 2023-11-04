@@ -10,3 +10,6 @@
 #traditionl ai and ml (machine learning)
 #T ai works give  a words input and ai will process 
 #ml works give a eg to give a input to machine . machine automatically works.    
+
+
+#ai or ml train in teachable machine
