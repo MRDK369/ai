@@ -12,4 +12,4 @@
 #ml works give a eg to give a input to machine . machine automatically works.    
 
 
-#ai or ml train in teachable machine
+#ai or ml train in teachable machine mmmmm
